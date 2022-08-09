@@ -49,10 +49,13 @@ background-position: center;
 .gift-img{
     background-image: url("gift.jpeg");
 }
-.gift-img:hover{
+#gift-img-happy:hover{
     background-image:url("oreo.png") ;
 background-size: auto;
     width: 340px;
     background-repeat: none;
     background-position:center;
+}
+#gift-img-hot:hover {
+    background-image:url("bday-314.gif") ;
 }
